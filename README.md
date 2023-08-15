@@ -1,11 +1,16 @@
 
 ### Olá! Eu sou o João Victor 👋
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-costa-dos-santos-0976a8248/)
+##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorcs29&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorcs29&hide_progress=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaovictorcs29&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovictorcs29&theme=dracula&layout=compact&langs_count=8&card_width=320" />
+</a>
 
+##
 ### Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>
@@ -16,5 +21,6 @@
     <img align="center" alt="py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
 
+##
 No começo da trajetória, com muita vontade de aprender.
 
