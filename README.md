@@ -22,5 +22,4 @@
 </div><br/>
 
 ##
-No começo da trajetória, com muita vontade de aprender.
 
