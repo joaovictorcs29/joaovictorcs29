@@ -19,12 +19,18 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Filter commits from 2025
+        run: |
+          git log --since="2025-01-01" --until="2025-12-31" --pretty=format:"%H" > commits_2025.txt
+
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
-
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
