@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🌱 - Currently learning **Java, Spring Boot**
+🌱 - Currently Working with **Spring boot, React, TypeScript**
 
 🏫 - Computer Science student at **Unisinos**
 
